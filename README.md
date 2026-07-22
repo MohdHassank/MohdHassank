@@ -1,5 +1,4 @@
-# Hi There, ## I'm **Mohd Hassan Khan**<br><br>
-
+# Hi There, I'm **Mohd Hassan Khan** <br><br>
 
 🎓 B.Tech (Information Technology) Student at AKTU (Graduating in 2027)<br><br>
 
