@@ -2,15 +2,15 @@
 
 🎓 B.Tech (Information Technology) Student at AKTU (Graduating in 2027)<br><br>
 
-🌱 Currently focused on **Data Structures & Algorithms, Core CS Fundamentals, Backend Development, Placement Preparation, improving real-world projects, and exploring Software Engineering opportunities.**<br><br>
+Currently focused on **Data Structures & Algorithms, Core CS Fundamentals, Backend Development, Placement Preparation, improving real-world projects, and exploring Software Engineering opportunities.**<br><br>
 
 🏆 **Highlights**<br><br>
 
-📜 Indian Patent Holder – Offline LoRa Communication System (2025)<br><br>
+Indian Patent Holder – Offline LoRa Communication System (2025)<br><br>
 
-🏅 Winner of **6+ National Level Hackathons & Innovation Competitions**<br><br>
+Winner of **6+ National Level Hackathons & Innovation Competitions**<br><br>
 
-💰 Won **₹40,000+** in National Hackathon Prize Money<br><br>
+Won **₹40,000+** in National Hackathon Prize Money<br><br>
 
 ☁️ AWS Solutions Architecture Job Simulation (Forage)
 
