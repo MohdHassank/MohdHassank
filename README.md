@@ -1,5 +1,22 @@
-# Hii There, 
-## I'm **Mohd Hassan Khan**<br><br>🎓 B.Tech (Information Technology) | AKTU (Graduating in 2027)<br><br>🌱 Continuously learning **Backend Engineering, DSA, Core CS Fundamentals, Linux, CI/CD, Cloud Computing and Software Architecture**.<br><br>---<br><br>🏆 Achievements<br><br>🥇 1st Prize — National Tech Fest (SRMS Bareilly)<br><br>🥇 Best Innovation Team — Galgotias International Hackathon<br><br>🥈 2nd Prize — Sustain-a-thon (Sharda University)<br><br>🥉 3rd Prize — SRMS Hackathon 4.0 (AI & Intelligent Systems)<br><br>📜 Filed an Indian Patent for Offline LoRa Communication System (2025)<br><br>☁️ AWS Solutions Architecture Job Simulation (Forage)<br><br>💰 Won ₹40,000+ through National Level Hackathons<br><br>🚀 
+# Hi There, <br><br>
+
+## I'm **Mohd Hassan Khan**<br><br>
+
+🎓 B.Tech (Information Technology) Student at AKTU (Graduating in 2027)<br><br>
+
+🌱 Currently focused on **Data Structures & Algorithms, Core CS Fundamentals, Backend Development, Placement Preparation, improving real-world projects, and exploring Software Engineering opportunities.**<br><br>
+
+---<br><br>
+
+🏆 **Highlights**<br><br>
+
+📜 Indian Patent Holder – Offline LoRa Communication System (2025)<br><br>
+
+🏅 Winner of **6+ National Level Hackathons & Innovation Competitions**<br><br>
+
+💰 Won **₹40,000+** in National Hackathon Prize Money<br><br>
+
+☁️ AWS Solutions Architecture Job Simulation (Forage)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Hassan Khan) 
